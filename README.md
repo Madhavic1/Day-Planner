@@ -1,6 +1,7 @@
 # Day-Planner
 A simple calendar application that allows the user to save events for each hour of the day
 ## table of contents
+  * Link to the deployed application
   * Introduction / General Information
   * Languages used
   * Installation
@@ -8,6 +9,8 @@ A simple calendar application that allows the user to save events for each hour 
   * Usage
   * Sources to read
   
+  ### Link to the deployed application
+  https://madhavic1.github.io/Day-Planner/
 
   ### Introducion (Aim of the project) / General Information:
     The main aim of this project is to create a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.This daily planner allows employees to see their day at a glance, schedule time effectively, and improve productivity by avoiding poor time management .
